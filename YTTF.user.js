@@ -14,7 +14,7 @@
     'use strict';
 
     // User configuration
-    const VIDEOS_PER_ROW = 10; // Change this number to set thumbnails per row.
+    const VIDEOS_PER_ROW = 5; // Change this number to set thumbnails per row.
     const ADJUST_CHANNEL_PAGES = false; // Set to true to apply grid adjustment on Channel pages.
 
     function applyGridStyle() {
