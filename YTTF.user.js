@@ -6,8 +6,8 @@
 // @match        *://www.youtube.com/*
 // @grant        none
 // @run-at       document-idle
-// @downloadURL  https://raw.githubusercontent.com/Liamb135/YTTF/master/
-// @updateURL  https://raw.githubusercontent.com/Liamb135/YTTF/master/
+// @downloadURL  https://github.com/Liamb135/YTTF/raw/main/YTTF.user.js
+// @updateURL    https://github.com/Liamb135/YTTF/raw/main/YTTF.user.js
 // ==/UserScript==
 
 (function() {
