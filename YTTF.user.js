@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YT Thumbnail Fixer
 // @namespace    https://github.com/Liamb135
-// @version      1.7
+// @version      1.8
 // @description  Easily adjust number of thumbnails on each row.
 // @match        *://www.youtube.com/*
 // @grant        none
