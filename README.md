@@ -16,5 +16,5 @@ To use this script, you'll need a userscript manager.
 At the top of the script, you will find two user-configurable constants:
 
 ```javascript
-const VIDEOS_PER_ROW = 10; // Change this number to set thumbnails per row.
-const ADJUST_CHANNEL_PAGES = false; // Set to true to apply grid adjustment on channel pages
+const VIDEOS_PER_ROW = X; // Change this number to set thumbnails per row, 5 by default.
+const ADJUST_CHANNEL_PAGES = X; // Set to true to apply grid adjustment on channel pages, false by default.
